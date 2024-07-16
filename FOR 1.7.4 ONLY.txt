@@ -1,0 +1,3 @@
+Playing on ANY other version that 1.7.4 will cause parts of the map not to work.
+
+You MUST play this map on 1.7.4 only!  DO NOT attempt play this map in 1.7.5, 1.7.10, 1.8, etc...
