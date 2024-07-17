@@ -1,0 +1,47 @@
+HOW TO INSTALL DIVERSITY 2 - AUGUST 21, 2015
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------------------------------------------------------------
+Single Player READ CAREFULLY (Do NOT copy ENTIRE package folder into your saves!!)
+--------------------------------------------------------------------------------------
+1. Unzip the download file and extract it somewhere you can remember
+2. Run Minecraft
+3. On Main Screen, click 'Options...'
+4. Click 'Resource Packs...'
+5. Click 'Open resource pack folder'
+   (If the folder doesn't pop up, switch Fullscreen to Off, and follow step 2 again)
+6. In new window that pops up, go up one folder
+7. Open 'saves' folder (if the folder does not exist, create one called 'saves')
+8. ******* Copy ONLY the folder 'Diversity 2 (v.0.3.2)' into the 'saves' folder. *******
+9. Go back to Minecraft Main Menu and select Single Player
+10. Locate Diversity 2 world save and click 'Play Selected World'
+
+
+--------------------------------------------------------------------------------------
+Multiplayer
+--------------------------------------------------------------------------------------
+Running a server can be a little challenging for those who do not understand networking.
+In a nutshell, you need to:
+1. Create a folder on desktop on the computer you want for the server
+2. Install the server program available from Mojang's website
+3. Set up port forwarding on your router
+4. Acquire your server's IP address (via ipchicken.com) and give it to your friend(s) to join
+
+That's as much detail as I want to try to explain with servers. I don't recommend you creating
+a server if don't understand anything about routers. If this is the case, try to find a friend
+who will host the map.
+
+
+
+--------------------------------------------------------------------------------------
+If you need visual advice on how to install a Minecraft map, I recommend these videos.
+--------------------------------------------------------------------------------------
+For Windows
+https://www.youtube.com/watch?v=MdWgaThiBBc
+
+For Mac
+https://www.youtube.com/watch?v=a_nzoXXKD1M
+
+For Server
+https://www.youtube.com/watch?v=d04mtt5pGhg
+https://www.youtube.com/watch?v=ye_BnHAEJGU
